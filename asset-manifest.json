@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/marvel-heroes-game/static/css/main.c26306e8.css",
+    "main.js": "/marvel-heroes-game/static/js/main.8e7c0368.js",
+    "static/media/AvengeanceHeroicAvengerNormal-Bz7d.ttf": "/marvel-heroes-game/static/media/AvengeanceHeroicAvengerNormal-Bz7d.2805e15e170e8f94a349.ttf",
+    "static/media/skeleton-2.webp": "/marvel-heroes-game/static/media/skeleton-2.c49ea359d034bd1c810f.webp",
+    "static/media/skeleton-1.webp": "/marvel-heroes-game/static/media/skeleton-1.74b886b872be5bda06d8.webp",
+    "static/media/skeleton-3.webp": "/marvel-heroes-game/static/media/skeleton-3.a7eb0f8e6479e023e3ec.webp",
+    "static/media/metal-door.jpg": "/marvel-heroes-game/static/media/metal-door.040746b6e02856218d2d.jpg",
+    "static/media/card-bg.png": "/marvel-heroes-game/static/media/card-bg.6bd64e4c7706ae2a95e9.png",
+    "static/media/mec.svg": "/marvel-heroes-game/static/media/mec.c773967d36d4fd429311.svg",
+    "index.html": "/marvel-heroes-game/index.html",
+    "static/media/marvel.svg": "/marvel-heroes-game/static/media/marvel.f64c057bbe349be7d601d4046d296c6c.svg",
+    "static/media/shield.svg": "/marvel-heroes-game/static/media/shield.ef53c0a1e4889cdbf1ecb6c697769963.svg",
+    "main.c26306e8.css.map": "/marvel-heroes-game/static/css/main.c26306e8.css.map",
+    "main.8e7c0368.js.map": "/marvel-heroes-game/static/js/main.8e7c0368.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c26306e8.css",
+    "static/js/main.8e7c0368.js"
+  ]
+}

@@ -62,7 +62,7 @@ well-known team from Marvel comics._
 ## Installation <a id="installation"></a>
 
 ```
-$ git clone https://github.com/Iryna-Gry/itis-team-6.git
+$ git clone https://github.com/Siryi-Oleksandr/marvel-game
 $ cd your-project
 $ npm install
 $ npm start
@@ -83,8 +83,8 @@ $ npm start
   displayed in real time.
 - Choose from already existing teams of Marvel heroes and try to play
 - Read and discover more information about teams and heroes
-- Save, view and analyze the history of all battles and team compositions
-  which you played.
+- Save, view and analyze the history of all battles and team compositions which
+  you played.
 
 ---
 
@@ -113,9 +113,9 @@ computers.
 
 ## Contacts <a id="contacts"></a>
 
+- Oleksandr [Linkedin](https://www.linkedin.com/in/oleksandr-siryi/),
+  [GitHub](https://github.com/Siryi-Oleksandr)
 - Iryna [Linkedin](https://www.linkedin.com/in/iryna-grytsaenko/),
   [GitHub](https://github.com/Iryna-Gry)
 - Sergiy [Linkedin](https://www.linkedin.com/in/sergey-androsov-8b8964253/),
   [GitHub](https://www.linkedin.com/in/sergey-androsov-8b8964253/)
-- Oleksandr [Linkedin](https://www.linkedin.com/in/oleksandr-siryi/),
-  [GitHub](https://github.com/Siryi-Oleksandr)
